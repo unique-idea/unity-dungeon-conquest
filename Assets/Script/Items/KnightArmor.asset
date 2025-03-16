@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f2f4cb3ed48e544ab38ba757c8d4258, type: 3}
+  m_Name: KnightArmor
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemName: Knight Amor
+  icon: {fileID: -965925972, guid: be55291aae08d434db3da3b59db3ab4a, type: 3}
+  specicalEffect: 
+  itemId: 12a6f9de056d72747a2cae4604c9a04b
+  dropChance: 20
+  equipmentType: 1
+  itemCooldown: 0
+  itemEffects: []
+  strength: 0
+  agility: 0
+  intelligence: 0
+  vitality: 0
+  damage: 0
+  critChance: 0
+  critPower: 0
+  health: 50
+  armor: 20
+  evasion: 0
+  magicResistance: 5
+  fireDamage: 0
+  iceDamage: 0
+  lightingDamage: 0
+  craftingMaterials:
+  - data: {fileID: 11400000, guid: 3d884414e831bc740a1add2a6806351a, type: 2}
+    stackSize: 3

@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f2f4cb3ed48e544ab38ba757c8d4258, type: 3}
+  m_Name: StaitamaSuit
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemName: Saitama Suit
+  icon: {fileID: -526847432, guid: 9c7355b0cb8a5024bba44738f70d9e74, type: 3}
+  specicalEffect: Now you are UNSTOPNABE
+  itemId: af78865e70c82ea43a9c078e2b2f9f89
+  dropChance: 0
+  equipmentType: 1
+  itemCooldown: 0
+  itemEffects: []
+  strength: 12
+  agility: 12
+  intelligence: 12
+  vitality: 12
+  damage: 50
+  critChance: 50
+  critPower: 20
+  health: 600
+  armor: 30
+  evasion: 15
+  magicResistance: 15
+  fireDamage: 12
+  iceDamage: 12
+  lightingDamage: 12
+  craftingMaterials:
+  - data: {fileID: 11400000, guid: 35970dafe7d21c24c8c971ecb1328fad, type: 2}
+    stackSize: 99
+  - data: {fileID: 11400000, guid: 3d884414e831bc740a1add2a6806351a, type: 2}
+    stackSize: 99
+  - data: {fileID: 11400000, guid: e1ac60a34c4ae2b4480a93e880e945e1, type: 2}
+    stackSize: 99

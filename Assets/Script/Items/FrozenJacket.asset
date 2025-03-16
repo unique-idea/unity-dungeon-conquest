@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f2f4cb3ed48e544ab38ba757c8d4258, type: 3}
+  m_Name: FrozenJacket
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemName: Frozen Jacket
+  icon: {fileID: -944711722, guid: be55291aae08d434db3da3b59db3ab4a, type: 3}
+  specicalEffect: When your health below 50%, next attack of enemy will be freeze
+  itemId: 371eae505c49d6948be500b59f3f32d1
+  dropChance: 0
+  equipmentType: 1
+  itemCooldown: 5
+  itemEffects:
+  - {fileID: 11400000, guid: e5a0299fccc7af240a9ffe8dcfb05dfe, type: 2}
+  strength: 0
+  agility: 0
+  intelligence: 0
+  vitality: 0
+  damage: 0
+  critChance: 0
+  critPower: 0
+  health: 500
+  armor: 30
+  evasion: 10
+  magicResistance: 20
+  fireDamage: 0
+  iceDamage: 15
+  lightingDamage: 0
+  craftingMaterials:
+  - data: {fileID: 11400000, guid: 35970dafe7d21c24c8c971ecb1328fad, type: 2}
+    stackSize: 10
+  - data: {fileID: 11400000, guid: e1ac60a34c4ae2b4480a93e880e945e1, type: 2}
+    stackSize: 2
