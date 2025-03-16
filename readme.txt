@@ -14,9 +14,11 @@
 - Git
 
 ### **💻 Setup**
-since this is my first project, the original project I learned from Udemy was a long time ago 
+Since this is my first project, the original project I learned from Udemy was a long time ago 
 So there may be many error files and mistakes, but technically if you want to play just run the .exe file in the folder "Game"
 I'll update in the nearest future, please enjoy.
+
+You can also playing in website via this link "https://unique-idea.itch.io/dungeonconquest"
 
 ### ** 🎮 How To Play** 
 - Use the *navigation* buttons on the keyboard to move left and right.
