@@ -5,8 +5,8 @@
 
 ## 🚀 Features
 - ⚔️ **Engaging Combat System** – Battles with various ability.
-- 🎭 **Character Power** – Unlock new skills with money collect from killing, Equip strong wepon.
-- 🛠️ **Crafting** - Collecting resource drop from monters and crafting your self wepon.
+- 🎭 **Character Power** – Unlock new skills with money collected from killing, Equip a strong weapon.
+- 🛠️ **Crafting** - Collecting resource drop from monsters and crafting your own weapon.
 
 ## 📦 Installation
 - Unity **2021+**
@@ -15,15 +15,15 @@
 
 ### **💻 Setup**
 since this is my first project, the original project I learned from Udemy was a long time ago 
-so there may many error file and mistake but technically if you want to play just run the .exe file in the folther "Game"
-I'll update in nearest future please enjoy.
+So there may be many error files and mistakes, but technically if you want to play just run the .exe file in the folder "Game"
+I'll update in the nearest future, please enjoy.
 
 ### ** 🎮 How To Play** 
 - Use the *navigation* buttons on the keyboard to move left and right.
-- Space for jump 
-- Left mouse for attacking
+- SPACE for jump 
+- *Left Mouse* for attacking
 - Press "C" for character status and equipment
-- Press "V" for crafting wepon
+- Press "V" for crafting weapon
 - Press "B" for unlock skill
 - Press "O" for other options
 - Press again "C,V,B,O" for close menu
